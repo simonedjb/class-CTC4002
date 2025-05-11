@@ -1,0 +1,3 @@
+Huguinho,8.1
+Zezinho,8.7
+Luizinho,9.3
